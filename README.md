@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif">
 <h1 align="center">Hi 👋, I'm DERRAR Achraf Nedjmeddine</h1>
-<h3 align="center">Front-end Web Developer and Data Science & Machine Learning Student</h3>
+<h3 align="center">Artificial intelligence and Data science Student and Front-end Web Developer</h3>
 </p>
 
 
